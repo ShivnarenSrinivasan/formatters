@@ -7,7 +7,7 @@ skip-string-normalization = true
 
 [project]
 name = 'dataframe-formatters'
-version = '0.0.1'
+version = '0.0.2'
 requires-python = '>=3.10'
 dependencies = [
     'pandas >=2.0.0,<3.0.0',
